@@ -1,0 +1,14 @@
+.git
+.gitignore
+.env
+__pycache__/
+*.pyc
+venv/
+debug_images/
+test_model.keras
+create_test_model.py
+inspect_model.py
+train_mnist.py
+train_model.py
+README.md
+*.log
